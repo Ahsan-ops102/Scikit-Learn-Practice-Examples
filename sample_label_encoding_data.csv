@@ -1,0 +1,11 @@
+gender,owns_car,city,purchased
+Male,Yes,NewYork,Yes
+Female,No,Chicago,No
+Female,Yes,LosAngeles,Yes
+Male,No,Houston,No
+Female,No,Phoenix,No
+Male,Yes,Chicago,Yes
+Female,Yes,Houston,Yes
+Male,No,LosAngeles,No
+Female,No,NewYork,Yes
+Male,Yes,Phoenix,No
